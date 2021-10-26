@@ -1,0 +1,38 @@
+.bord {
+    height: 98vh;
+    border: 3px dashed red;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -7px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content:flex-start;
+}
+.divs {
+    height: 150px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+.one {
+    width: 99.7%;
+    background-color: rgb(252,100,77);
+}
+.two {
+    width: 59.7%;
+    background-color: rgb(178,224,230);
+}
+.three {
+    width: 39.7%;
+    background-color: rgb(155,249,156);
+}
+.four {
+    width: 49.7%;
+    background-color: rgb(255,253,56);
+}
+.five {
+    width: 49.7%;
+    background-color: rgb(146,115,216);
+}
